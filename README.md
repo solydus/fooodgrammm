@@ -19,13 +19,6 @@
 - Docker
 - Github Actions
 
-## Установка проекта локально
-
-* Склонировать репозиторий на локальную машину:
-```bash
-git clone git@github.com:Kaydalova/foodgram-project-react.git
-cd foodgram-project-react
-```
 
 * Cоздать и активировать виртуальное окружение:
 
